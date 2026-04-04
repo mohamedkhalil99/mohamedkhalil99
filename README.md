@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Khalil from Egypt<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning HTML5, CSS<br>- ⚡ In my free time, I like to learn new programming skills</p>
+<p align="left">I'm Mohamed Khalil from Egypt<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time, I like to learn new programming skills</p>
 
 ###
 
